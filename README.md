@@ -1,12 +1,17 @@
-<h2 align="center">Hi 👋, i'm Rafael</h1>
-<h4 align="center">Aspiring Ai Developer</h4>
-<h4 align="center">i'm software Engineer student. Current Learning Ai. </h4>
+![IMAGE](https://github.com/rafaelm229/rafaelm229/blob/master/HI%2C%20There!.gif)
 
-- 🌱 I’m currently learning **Deep Learning on deeplearning.ai**
+My name is Rafael and I am currently studying Software Engineering. I am interested in all aspects of technology and especially in 🤖 Artificial Intelligence, 🚗 Self Driving Cars , ⛓ Blockchain,🚀 Aerospeace and 💻 Functional Programming. I strongly believe in the power of technology to improve people's everyday life.
+<br>
+- 👩‍🎓 I'm a 3º year Student at Cesumar University 🇧🇷
+- 🌱 I’m currently Studying Deep Learning Specialization From DeepLearning.ai
+- ⚡ I'm passionate about 🏁 Cars & 🚀 Rockets and i love ♜ Chess.
+<br>
 
-- 💬 Ask me about **Ai and computer science in general**
-
-- 📫 How to reach me **rafaelnunesm20@gmail.com**
+<p align="center">
+  <a href="https://twitter.com/Rafaelm229" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/rafaelnmoura/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a>
+  <a href="https://www.dev.to/rafaelm229" target="_blank"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev%2Eto&logoColor=white" alt="Dev.To"></a>
+</p>
 
 
 
