@@ -1,4 +1,4 @@
-![IMAGE](https://github.com/rafaelm229/rafaelm229/blob/master/HI%2C%20There!.gif)
+### Hi 👋
 
 My name is Rafael and I am currently studying Software Engineering. I am interested in all aspects of technology and especially in 🤖 Artificial Intelligence, 🚗 Self Driving Cars , ⛓ Blockchain,🚀 Aerospeace and 💻 Functional Programming. I strongly believe in the power of technology to improve people's everyday life.
 <br>
