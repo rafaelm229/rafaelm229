@@ -3,8 +3,8 @@
 My name is Rafael and I am currently studying Software Engineering. I am interested in all aspects of technology and especially in 🤖 Artificial Intelligence, 🚗 Self Driving Cars , ⛓ Blockchain,🚀 Aerospeace and 💻 Functional Programming. I strongly believe in the power of technology to improve people's everyday life.
 <br>
 - 👩‍🎓 I'm a 4º year Software Engineer student at UniCesumar University 🇧🇷
-- 🌱 I’m currently Studying Python.
-- ⚡ I'm passionate about Machine learning, Autonomous Vehicle, Rockets and i love Chess.
+- 🌱 I’m currently Studying Swift, Flutter and Android.
+- ⚡ I'm passionate about Machine learning, Mobile Apps, Build Solutions and i love Chess.
 <br>
 
 <p align="center">
